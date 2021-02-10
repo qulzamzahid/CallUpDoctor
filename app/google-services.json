@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50739817821",
+    "project_id": "call-up-doctor-app",
+    "storage_bucket": "call-up-doctor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50739817821:android:27ac9afde778a12187ccb4",
+        "android_client_info": {
+          "package_name": "qulzam.sheharyar.usman.callupdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50739817821-tnb2hupm79mh608epto0sdgnf48k0jo6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qulzam.sheharyar.usman.callupdoctor",
+            "certificate_hash": "0755a938b9376846e4aebb6b423e3fc135d448a2"
+          }
+        },
+        {
+          "client_id": "50739817821-j26863bc2cimppnsifdnuka6da7liv75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwadu_N4rDfe6XLzWxLowjp9S7TlYLZ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50739817821-j26863bc2cimppnsifdnuka6da7liv75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
